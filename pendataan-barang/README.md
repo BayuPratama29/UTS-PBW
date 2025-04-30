@@ -46,13 +46,6 @@ Sistem Pendataan Barang adalah aplikasi berbasis web menggunakan **PHP Native** 
 - **Username**: `admin`
 - **Password**: `admin123`
 
----
-
-## 📸 Screenshot:
-
-| Login Page | Dashboard | Data Barang |
-|:----------:|:---------:|:-----------:|
-| ![Login](path-ke-screenshot-login.png) | ![Dashboard](path-ke-screenshot-dashboard.png) | ![Barang](path-ke-screenshot-barang.png) |
 
 ---
 
@@ -77,7 +70,3 @@ Jika Anda tertarik untuk mengembangkan project ini lebih lanjut, silakan buat **
 
 ---
 
-## 💬 Kontak:
-Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi saya di:
-- Email: `email@domain.com`
-- LinkedIn: `https://www.linkedin.com/in/username`
